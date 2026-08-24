@@ -1,7 +1,7 @@
 /*
-    Author:
-    Date:
-    Purpose:
+    Author:Alexander Smith
+    Date: 08/24/2026
+    Purpose: creating interactive loops and conditionals to work in html DOM to purchase and add to cart
 */
 
 /* =========================================
